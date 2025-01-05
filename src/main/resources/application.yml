@@ -1,0 +1,10 @@
+# spring.application.name=springdemo.  <= this is normal default representation
+spring:
+  application:
+    name: springdemo
+# Add properties here
+hekate:
+  pro1:
+    value: 1
+  pro2:
+    value: 2
